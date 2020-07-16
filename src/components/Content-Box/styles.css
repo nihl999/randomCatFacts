@@ -1,0 +1,14 @@
+.content-box{
+    text-align: center;
+}
+.content-box img{
+    margin-top: 30px;
+    border: 10px solid #5c5b5b;
+    object-fit: cover;
+    border-radius: 50%;
+    width: 800px;
+    height: 800px;
+}
+.cat-fact{
+    font-size: 3rem;
+}
